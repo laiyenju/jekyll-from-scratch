@@ -1,4 +1,4 @@
-I"s<p>Style guide is a test file for markdown in jekyll blog.</p>
+I"L<p>Style guide is a test file for markdown in jekyll blog.</p>
 
 <h1 id="title">title</h1>
 
@@ -20,26 +20,26 @@
 
 <h3 id="title-3">title 3</h3>
 
-<p>this section is below a <strong>seperated line</strong>. This is a <code>code block</code> in a text line.</p>
+<p>this section is below a <strong>seperated line</strong>. This is a <code class="highlighter-rouge">code block</code> in a text line.</p>
 
 <h3 id="title-4">title 4</h3>
 
 <p><em>plain text</em></p>
-<pre><code>cd Desktop
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd Desktop
 ls
 touch file.md
 
-</code></pre>
+</code></pre></div></div>
 
-<pre><code class="language-python">def function():
-    print("Hello World")
-    pass
-</code></pre>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">function</span><span class="p">():</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">"Hello World"</span><span class="p">)</span>
+    <span class="k">pass</span>
+</code></pre></div></div>
 
-<pre><code class="language-javascript">function test() =&gt; {
-    print("Hello World")
-}
-</code></pre>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">test</span><span class="p">()</span> <span class="o">=&gt;</span> <span class="p">{</span>
+    <span class="nx">print</span><span class="p">(</span><span class="dl">"</span><span class="s2">Hello World</span><span class="dl">"</span><span class="p">)</span>
+<span class="p">}</span>
+</code></pre></div></div>
 
 <h5 id="title-5">title 5</h5>
 

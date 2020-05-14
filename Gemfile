@@ -10,4 +10,6 @@ group :jekyll_plugins do
   gem 'kramdown', '~> 2.2', '>= 2.2.1'
   gem 'jekyll-paginate', '~> 1.1'
   gem 'jekyll-commonmark-ghpages'
+  gem 'jekyll-spaceship'
+  gem 'jekyll-archives'
 end

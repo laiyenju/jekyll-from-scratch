@@ -30,6 +30,8 @@ plugins:
   - jekyll-paginate
   - kramdown
   - jemoji
+  - jekyll-archives
+  - jekyll-spaceship
 
 markdown: kramdown
 
@@ -38,6 +40,6 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter_opts:
-      disable : true
+      disable : false
       toc_levels: 1..5
       parse_block_html: true

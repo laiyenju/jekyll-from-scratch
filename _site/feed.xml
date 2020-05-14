@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-14T17:55:16+08:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Style Guide</title><link href="http://localhost:4000/2020/05/14/style-guide" rel="alternate" type="text/html" title="Style Guide" /><published>2020-05-14T00:00:00+08:00</published><updated>2020-05-14T00:00:00+08:00</updated><id>http://localhost:4000/2020/05/14/style-guide</id><content type="html" xml:base="http://localhost:4000/2020/05/14/style-guide">&lt;p&gt;Style guide is a test file for markdown in jekyll blog.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-14T21:26:41+08:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Style Guide</title><link href="http://localhost:4000/2020/05/14/style-guide" rel="alternate" type="text/html" title="Style Guide" /><published>2020-05-14T00:00:00+08:00</published><updated>2020-05-14T00:00:00+08:00</updated><id>http://localhost:4000/2020/05/14/style-guide</id><content type="html" xml:base="http://localhost:4000/2020/05/14/style-guide">&lt;p&gt;Style guide is a test file for markdown in jekyll blog.&lt;/p&gt;
 
 &lt;h1 id=&quot;title&quot;&gt;title&lt;/h1&gt;
 
@@ -20,26 +20,26 @@
 
 &lt;h3 id=&quot;title-3&quot;&gt;title 3&lt;/h3&gt;
 
-&lt;p&gt;this section is below a &lt;strong&gt;seperated line&lt;/strong&gt;. This is a &lt;code&gt;code block&lt;/code&gt; in a text line.&lt;/p&gt;
+&lt;p&gt;this section is below a &lt;strong&gt;seperated line&lt;/strong&gt;. This is a &lt;code class=&quot;highlighter-rouge&quot;&gt;code block&lt;/code&gt; in a text line.&lt;/p&gt;
 
 &lt;h3 id=&quot;title-4&quot;&gt;title 4&lt;/h3&gt;
 
 &lt;p&gt;&lt;em&gt;plain text&lt;/em&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;cd Desktop
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cd Desktop
 ls
 touch file.md
 
-&lt;/code&gt;&lt;/pre&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-python&quot;&gt;def function():
-    print(&quot;Hello World&quot;)
-    pass
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;pass&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;function test() =&amp;gt; {
-    print(&quot;Hello World&quot;)
-}
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;test&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Hello World&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h5 id=&quot;title-5&quot;&gt;title 5&lt;/h5&gt;
 
@@ -93,27 +93,27 @@ Hope it will be fine.&lt;/p&gt;
   &lt;li&gt;what’s the voice, attitude?&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;pre&gt;&lt;code&gt;&amp;lt;!DOCTYPE html&amp;gt;
-&amp;lt;html&amp;gt;
-&amp;lt;head&amp;gt;
-    &amp;lt;title&amp;gt;&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
 
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;
-&amp;lt;html&amp;gt;
-&amp;lt;head&amp;gt;
-    &amp;lt;title&amp;gt;&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
 
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;description&quot;&gt;Description&lt;/h3&gt;
 
@@ -124,11 +124,11 @@ Hope it will be fine.&lt;/p&gt;
   &lt;li&gt;must provide some example&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;This is a &lt;code&gt;code block&lt;/code&gt; test.&lt;/p&gt;
+&lt;p&gt;This is a &lt;code class=&quot;highlighter-rouge&quot;&gt;code block&lt;/code&gt; test.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-python&quot;&gt;def this():
-    print(&quot;this is a code&quot;)
-&lt;/code&gt;&lt;/pre&gt;</content><author><name>ted</name></author><summary type="html">Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible berry of several species of woody vines in the genus Actinidia.</summary></entry><entry><title type="html">Apples</title><link href="http://localhost:4000/2018/08/21/apples" rel="alternate" type="text/html" title="Apples" /><published>2018-08-21T00:00:00+08:00</published><updated>2018-08-21T00:00:00+08:00</updated><id>http://localhost:4000/2018/08/21/apples</id><content type="html" xml:base="http://localhost:4000/2018/08/21/apples">&lt;p&gt;An apple is a sweet, edible fruit produced by an apple tree.&lt;/p&gt;
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;this is a code&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>ted</name></author><summary type="html">Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible berry of several species of woody vines in the genus Actinidia.</summary></entry><entry><title type="html">Apples</title><link href="http://localhost:4000/2018/08/21/apples" rel="alternate" type="text/html" title="Apples" /><published>2018-08-21T00:00:00+08:00</published><updated>2018-08-21T00:00:00+08:00</updated><id>http://localhost:4000/2018/08/21/apples</id><content type="html" xml:base="http://localhost:4000/2018/08/21/apples">&lt;p&gt;An apple is a sweet, edible fruit produced by an apple tree.&lt;/p&gt;
 
 &lt;p&gt;I give this plugin two :+1:!&lt;/p&gt;
 
@@ -144,6 +144,103 @@ distinguishing them from dessert bananas. The fruit is variable in size, color,
 and firmness&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, but is usually elongated and curved, with soft flesh rich in
 starch covered with a rind, which may be green, yellow, red, purple, or brown
 when ripe.&lt;/p&gt;
+
+&lt;h3 id=&quot;daily-motion&quot;&gt;Daily Motion&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://www.dailymotion.com/embed/video/x7tfyq3&quot; title=&quot;&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;          &lt;/iframe&gt;
+
+&lt;h3 id=&quot;vimeo&quot;&gt;Vimeo&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/263856289&quot; title=&quot;&quot; width=&quot;500&quot; height=&quot;320&quot; style=&quot;&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;          &lt;/iframe&gt;
+
+&lt;h3 id=&quot;youtube&quot;&gt;YouTube&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/Ptk_1Dc2iPY&quot; title=&quot;&quot; width=&quot;600&quot; height=&quot;400&quot; style=&quot;max-width: 100%&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;          &lt;/iframe&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;♜&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;♝&lt;/td&gt;
+      &lt;td&gt;♛&lt;/td&gt;
+      &lt;td&gt;♚&lt;/td&gt;
+      &lt;td&gt;♝&lt;/td&gt;
+      &lt;td&gt;♞&lt;/td&gt;
+      &lt;td&gt;♜&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;♟&lt;/td&gt;
+      &lt;td&gt;♟&lt;/td&gt;
+      &lt;td&gt;♟&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;♟&lt;/td&gt;
+      &lt;td&gt;♟&lt;/td&gt;
+      &lt;td&gt;♟&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;♟&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;♞&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;♗&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;♟&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;♙&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;♘&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;♙&lt;/td&gt;
+      &lt;td&gt;♙&lt;/td&gt;
+      &lt;td&gt;♙&lt;/td&gt;
+      &lt;td&gt;♙&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;♙&lt;/td&gt;
+      &lt;td&gt;♙&lt;/td&gt;
+      &lt;td&gt;♙&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;♖&lt;/td&gt;
+      &lt;td&gt;♘&lt;/td&gt;
+      &lt;td&gt;♗&lt;/td&gt;
+      &lt;td&gt;♕&lt;/td&gt;
+      &lt;td&gt;♔&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;♖&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;

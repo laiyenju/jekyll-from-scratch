@@ -1,4 +1,4 @@
-I"¤<p>Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
+I"Ì<p>Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
 berry of several species of woody vines in the genus Actinidia.</p>
 
 <p>The most common cultivar group of kiwifruit is oval, about the size of a large
@@ -21,27 +21,27 @@ Hope it will be fine.</p>
   <li>whatâ€™s the voice, attitude?</li>
 </ol>
 
-<pre><code>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-    &lt;title&gt;&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;!DOCTYPE html&gt;</span>
+<span class="nt">&lt;html&gt;</span>
+<span class="nt">&lt;head&gt;</span>
+    <span class="nt">&lt;title&gt;&lt;/title&gt;</span>
+<span class="nt">&lt;/head&gt;</span>
+<span class="nt">&lt;body&gt;</span>
 
-&lt;/body&gt;
-&lt;/html&gt;
-</code></pre>
+<span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span>
+</code></pre></div></div>
 
-<pre><code class="language-html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-    &lt;title&gt;&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;!DOCTYPE html&gt;</span>
+<span class="nt">&lt;html&gt;</span>
+<span class="nt">&lt;head&gt;</span>
+    <span class="nt">&lt;title&gt;&lt;/title&gt;</span>
+<span class="nt">&lt;/head&gt;</span>
+<span class="nt">&lt;body&gt;</span>
 
-&lt;/body&gt;
-&lt;/html&gt;
-</code></pre>
+<span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span>
+</code></pre></div></div>
 
 <h3 id="description">Description</h3>
 
@@ -52,9 +52,9 @@ Hope it will be fine.</p>
   <li>must provide some example</li>
 </ul>
 
-<p>This is a <code>code block</code> test.</p>
+<p>This is a <code class="highlighter-rouge">code block</code> test.</p>
 
-<pre><code class="language-python">def this():
-    print("this is a code")
-</code></pre>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">this</span><span class="p">():</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">"this is a code"</span><span class="p">)</span>
+</code></pre></div></div>
 :ET
