@@ -1,0 +1,43 @@
+collections:
+  authors:
+    output: true
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+
+permalink: /:year/:month/:day/:slug
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - kramdown
+  - jemoji
+
+markdown: kramdown
+
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  auto_ids: true
+  syntax_highlighter_opts:
+      disable : true
+      toc_levels: 1..5
+      parse_block_html: true

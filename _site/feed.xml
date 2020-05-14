@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-14T17:55:16+08:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Style Guide</title><link href="http://localhost:4000/2020/05/14/style-guide" rel="alternate" type="text/html" title="Style Guide" /><published>2020-05-14T00:00:00+08:00</published><updated>2020-05-14T00:00:00+08:00</updated><id>http://localhost:4000/2020/05/14/style-guide</id><content type="html" xml:base="http://localhost:4000/2020/05/14/style-guide">&lt;p&gt;Style guide is a test file for markdown in jekyll blog.&lt;/p&gt;
+
+&lt;h1 id=&quot;title&quot;&gt;title&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;item 1&lt;/li&gt;
+  &lt;li&gt;item 2&lt;/li&gt;
+  &lt;li&gt;item 3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;title-2&quot;&gt;title 2&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;list 1&lt;/li&gt;
+  &lt;li&gt;list 2&lt;/li&gt;
+  &lt;li&gt;list 3&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;title-3&quot;&gt;title 3&lt;/h3&gt;
+
+&lt;p&gt;this section is below a &lt;strong&gt;seperated line&lt;/strong&gt;. This is a &lt;code&gt;code block&lt;/code&gt; in a text line.&lt;/p&gt;
+
+&lt;h3 id=&quot;title-4&quot;&gt;title 4&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;plain text&lt;/em&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cd Desktop
+ls
+touch file.md
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-python&quot;&gt;def function():
+    print(&quot;Hello World&quot;)
+    pass
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;function test() =&amp;gt; {
+    print(&quot;Hello World&quot;)
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h5 id=&quot;title-5&quot;&gt;title 5&lt;/h5&gt;
+
+&lt;p&gt;This section will contain a footnote&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Below is a table.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;item 1&lt;/th&gt;
+      &lt;th&gt;item 2&lt;/th&gt;
+      &lt;th&gt;item 3&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;noe 1&lt;/td&gt;
+      &lt;td&gt;noe 2&lt;/td&gt;
+      &lt;td&gt;noe 3&lt;/td&gt;
+      &lt;td&gt;no name&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;this is a footnote. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>laiyenju</name></author><summary type="html">Style guide is a test file for markdown in jekyll blog.</summary></entry><entry><title type="html">Kiwifruit</title><link href="http://localhost:4000/2018/08/22/kiwifruit" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-22T00:00:00+08:00</published><updated>2018-08-22T00:00:00+08:00</updated><id>http://localhost:4000/2018/08/22/kiwifruit</id><content type="html" xml:base="http://localhost:4000/2018/08/22/kiwifruit">&lt;p&gt;Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
+berry of several species of woody vines in the genus Actinidia.&lt;/p&gt;
+
+&lt;p&gt;The most common cultivar group of kiwifruit is oval, about the size of a large
+hen’s egg (5–8 cm (2.0–3.1 in) in length and 4.5–5.5 cm (1.8–2.2 in) in
+diameter). It has a fibrous, dull greenish-brown skin and bright green or
+golden flesh with rows of tiny, black, edible seeds. The fruit has a soft
+texture, with a sweet and unique flavor.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is a quote.
+Hope it will be fine.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;build up a brand&lt;/li&gt;
+  &lt;li&gt;what will people remember your brand?&lt;/li&gt;
+  &lt;li&gt;who is the representer?&lt;/li&gt;
+  &lt;li&gt;what’s the voice, attitude?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;head&amp;gt;
+    &amp;lt;title&amp;gt;&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;head&amp;gt;
+    &amp;lt;title&amp;gt;&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;description&quot;&gt;Description&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;must try to write a copywrite&lt;/li&gt;
+  &lt;li&gt;animation?&lt;/li&gt;
+  &lt;li&gt;color, visual, logo&lt;/li&gt;
+  &lt;li&gt;must provide some example&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is a &lt;code&gt;code block&lt;/code&gt; test.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-python&quot;&gt;def this():
+    print(&quot;this is a code&quot;)
+&lt;/code&gt;&lt;/pre&gt;</content><author><name>ted</name></author><summary type="html">Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible berry of several species of woody vines in the genus Actinidia.</summary></entry><entry><title type="html">Apples</title><link href="http://localhost:4000/2018/08/21/apples" rel="alternate" type="text/html" title="Apples" /><published>2018-08-21T00:00:00+08:00</published><updated>2018-08-21T00:00:00+08:00</updated><id>http://localhost:4000/2018/08/21/apples</id><content type="html" xml:base="http://localhost:4000/2018/08/21/apples">&lt;p&gt;An apple is a sweet, edible fruit produced by an apple tree.&lt;/p&gt;
+
+&lt;p&gt;I give this plugin two :+1:!&lt;/p&gt;
+
+&lt;p&gt;Apple trees are cultivated worldwide, and are the most widely grown species in
+the genus Malus. The tree originated in Central Asia, where its wild ancestor,
+Malus sieversii, is still found today. Apples have been grown for thousands of
+years in Asia and Europe, and were brought to North America by European
+colonists.&lt;/p&gt;</content><author><name>jill</name></author><summary type="html">An apple is a sweet, edible fruit produced by an apple tree.</summary></entry><entry><title type="html">Banana</title><link href="http://localhost:4000/2018/08/21/banana" rel="alternate" type="text/html" title="Banana" /><published>2018-08-21T00:00:00+08:00</published><updated>2018-08-21T00:00:00+08:00</updated><id>http://localhost:4000/2018/08/21/banana</id><content type="html" xml:base="http://localhost:4000/2018/08/21/banana">&lt;p&gt;A banana is an edible fruit – botanically a berry – produced by several kinds
+of large herbaceous flowering plants in the genus Musa.&lt;/p&gt;
+
+&lt;p&gt;In some countries, bananas used for cooking&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; may be called “plantains”,
+distinguishing them from dessert bananas. The fruit is variable in size, color,
+and firmness&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, but is usually elongated and curved, with soft flesh rich in
+starch covered with a rind, which may be green, yellow, red, purple, or brown
+when ripe.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;this is a really bullshit. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;test foot 1 for &lt;a href=&quot;https://laiyenju.github.io&quot;&gt;this article&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>jill</name></author><summary type="html">A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.</summary></entry></feed>
