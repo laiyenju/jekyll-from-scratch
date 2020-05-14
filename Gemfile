@@ -12,4 +12,5 @@ group :jekyll_plugins do
   gem 'jekyll-commonmark-ghpages'
   gem 'jekyll-spaceship'
   gem 'jekyll-archives'
+  gem 'jekyll-mentions'
 end

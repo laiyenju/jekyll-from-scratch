@@ -32,6 +32,7 @@ plugins:
   - jemoji
   - jekyll-archives
   - jekyll-spaceship
+  - jekyll-mentions
 
 markdown: kramdown
 
@@ -43,3 +44,6 @@ kramdown:
       disable : false
       toc_levels: 1..5
       parse_block_html: true
+
+jekyll-mentions:
+  base_url: https://twitter.com
