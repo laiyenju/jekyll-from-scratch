@@ -7,7 +7,7 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-seo-tag'
   gem 'jemoji', '~> 0.12.0'
-  gem 'kramdown', '~> 2.2', '>= 2.2.1'
+  gem 'kramdown', '~> 2.3'
   gem 'jekyll-paginate', '~> 1.1'
   gem 'jekyll-commonmark-ghpages'
   gem 'jekyll-spaceship'
